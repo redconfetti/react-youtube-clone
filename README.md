@@ -10,3 +10,7 @@ the [JavaScript Mastery] channel.
 ## API Key
 
 You'll need to put your own API key in `src/api/youtube.js`.
+
+## Notes
+
+See [Tutorial Transcript](./docs/notes.md)
